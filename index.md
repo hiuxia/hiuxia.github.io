@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
+## Haonan Wang (王昊楠)
 
-## Haonan Wang
-
-Postgraduate student
+Postgraduate 
 <br>Department of Data Science
 <br>City University Hong Kong(Dongguan)
 <br>Email:
 <span class="email">
-7240<o>Y8oWuD9e86</o>2966<o>k0BGBnvtqb</o>@cityu-dg<o>.ejAMuIe4Wr</o>.edu.hk
+7240<o>Y8oWuD9e86</o>2966<o>k0BGBnvtqb</o>@cityu-dg<o>.ejAMuIe4Wr</o>.edu.cn
 </span>
 
 <div class="icons">
@@ -21,23 +20,21 @@ Postgraduate student
 
 ---
 
-## About Me <font style="font-weight: normal; font-style: normal; ">(<span class="highlight">Seeking research position in academia or industry 😊</span>)</font>
+## About Me <font style="font-weight: normal; font-style: normal; "></font>
 
 I am currently a postgraduate student at [City University of Hong Kong(Dongguan)](https://www.cityu-dg.edu.cn/en/home)who major in Data Science.  I received my Bachelor's degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), School of Intelligent Transportation in 2023.
 
-My research interest lies at the intersection of cybersecurity and AI. Currently, I'm focusing on the security vulnerabilities of multimodal AI systems.
-<!--
+My research interest lies in the intersection of cybersecurity and AI. Currently, I'm focusing on the security vulnerabilities of multimodal AI systems.
 
 ## Education / Experience
 
 - 2024/08-Now: Postgraduate in Data Science, City University of Hong Kong(Dongguan)
 - 2019/09-2023/06: B.Eng. in Intelligent Transportation, Beijing Jiaotong University
 
--->
 
 ---
 
-## Selected Projects <font style="font-weight: normal; font-style: normal;">(*:co-first authors)</font>
+## Selected Projects <font style="font-weight: normal; font-style: normal;"></font>
 
 - [RL-Hex-Game](https://github.com/hiuxia/RL_Hex_game): A MCTS-based Hex playing and evalution system.
 - [langchain-based AI study companion](https://github.com/hiuxia/Blockchain-based-AI-study-companion): Upload your study materials and get a personalized study assitant.
